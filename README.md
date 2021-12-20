@@ -8,6 +8,14 @@
 - bert-cls-example.ipynb
 - bert-cls.py
 
+- **BERT分类模型如下：**
+
+<center><image src="https://img-blog.csdnimg.cn/b3cc7317f77a40d2ab2440a4178769ed.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5biD6KGj5bCP5byg,size_20,color_FFFFFF,t_70,g_se,x_16" width=80%>
+
+
 ## 模型命名实体识别
 - bert-ner-example.ipynb
 - bert-ner.py
+
+- **BERT命名实体识别模型如下：**
+<center><image src="https://img-blog.csdnimg.cn/d447d9ff43f04b449a7124525c213a36.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5biD6KGj5bCP5byg,size_20,color_FFFFFF,t_70,g_se,x_16" width=75%>
