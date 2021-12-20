@@ -10,7 +10,7 @@
 - **CSDN链接：** https://blog.csdn.net/abc13526222160/article/details/122051583?spm=1001.2014.3001.5501
 - **BERT分类模型如下：**
 
-<center><image src="https://img-blog.csdnimg.cn/b3cc7317f77a40d2ab2440a4178769ed.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5biD6KGj5bCP5byg,size_20,color_FFFFFF,t_70,g_se,x_16" width=80%>
+<center><image src="https://img-blog.csdnimg.cn/b3cc7317f77a40d2ab2440a4178769ed.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5biD6KGj5bCP5byg,size_20,color_FFFFFF,t_70,g_se,x_16" width=70%>
 
 
 ## 模型命名实体识别
@@ -18,4 +18,4 @@
 - `bert-ner.py`
 - **CSDN链接：** https://blog.csdn.net/abc13526222160/article/details/122052004?spm=1001.2014.3001.5501
 - **BERT命名实体识别模型如下：**
-<center><image src="https://img-blog.csdnimg.cn/d447d9ff43f04b449a7124525c213a36.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5biD6KGj5bCP5byg,size_20,color_FFFFFF,t_70,g_se,x_16" width=75%>
+<center><image src="https://img-blog.csdnimg.cn/d447d9ff43f04b449a7124525c213a36.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5biD6KGj5bCP5byg,size_20,color_FFFFFF,t_70,g_se,x_16" width=65%>
